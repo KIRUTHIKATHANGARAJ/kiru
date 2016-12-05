@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
-int rev=0,n,ram;
+int rev=0,n,ram,pal;
 printf("enter the number");
 scanf("%d",&n);
 pal=n;
